@@ -1,0 +1,55 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background-color: #BDC3C7;
+	text-align: center;
+}
+
+footer {
+	background-color: #BDC3C7;
+	text-align: right;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	padding-right: 30px;
+	font-family: "Droid Sans", sans-serif;
+	font-size: 15px;
+	font-style: italic;
+}
+
+a {
+	color: #1F3A93;
+	text-decoration: none;
+}
+
+main {
+	font-family: "Droid Sans", sans-serif;
+	margin: 20px 30px;
+}
+
+body {
+	background-color: #DADFE1;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+h1 {
+	font-family: "Syncopate", sans-serif;
+	text-transform: uppercase;
+	font-size: 70px;
+	padding-top: 20px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+#slogan {
+	padding: 15px;
+	font-family: "Syncopate", sans-serif;
+
+}

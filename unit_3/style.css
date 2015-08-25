@@ -1,13 +1,19 @@
 * {
 	padding: 0;
 	margin: 0;
+	box-sizing:border-box;
 }
-
+body {
+	background-color: #DADFE1;
+}
 header {
 	background-color: #BDC3C7;
 	text-align: center;
 }
-
+main {
+	font-family: "Droid Sans", sans-serif;
+	margin: 20px 30px;
+}
 footer {
 	background-color: #BDC3C7;
 	text-align: right;
@@ -23,16 +29,6 @@ a {
 	color: #1F3A93;
 	text-decoration: none;
 }
-
-main {
-	font-family: "Droid Sans", sans-serif;
-	margin: 20px 30px;
-}
-
-body {
-	background-color: #DADFE1;
-}
-
 ul {
 	list-style-position: inside;
 }
